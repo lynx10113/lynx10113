@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=180&fontSize=60&stroke=198AC7&strokeWidth=4"/>
 </p>
-[![MY GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lynx011&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![MY GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lynx011)](https://github.com/anuraghazra/github-readme-stats)
 <h2> 🚀🛠 &nbsp;Languages and Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="45" height="45"/>
