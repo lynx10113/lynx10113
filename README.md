@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=180&fontSize=60&stroke=198AC7&strokeWidth=4"/>
-  <img src="https://tenor.com/bMZNk.gif" height="200" width="340" style="margin-top: 20px;"/>
+  <img src="https://media.giphy.com/media/lT9PbV1BijgxsnY7xW/giphy.gif" height="200" width="340" style="margin-top: 20px;"/>
 </p>
 <h2> 🚀🛠 &nbsp;Languages and Tools</h2>
 <p align="left">
