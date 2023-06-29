@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=70&stroke=FFBF00&strokeWidth=4"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=180&fontSize=70&stroke=FFBF00&strokeWidth=4"/>
   <img src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" height="200" width="340" style="margin-top=10px;">
 </p>
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
