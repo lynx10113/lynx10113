@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=180&fontSize=70&stroke=FFBF00&strokeWidth=4"/>
   <img src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" height="200" width="340" style="margin-top=10px;">
 </p>
+<hr style="color: grey; height: 3px; border-style: dotted;">
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
 <p align="left">
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
@@ -11,5 +12,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> -->
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?logo=react&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/kotlin-%23039BE5.svg?logo=kotlin&logoColor=white&style=flat"/>
 </p>
