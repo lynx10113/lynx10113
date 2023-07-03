@@ -4,7 +4,7 @@
 </p>
 <hr style="color: grey; height: 2px; border-style: dotted; margin-top=10px; margin-bottom=10px">
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
-<hr style="color: grey; height: 0.6px; border-style: dotted; margin-bottom=10px">
+<hr style="color: grey;">
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="36" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="28" height="34"/>
