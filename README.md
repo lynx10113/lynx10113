@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" height="300" width="400" style="margin-top=10px;">
+  <img src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" height="280" width="350" style="margin-top=10px;">
 </p>
 <hr style="color: grey; height: 2px; border-style: dotted; margin-top=10px; margin-bottom=10px">
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
