@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lynx011&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/lynx011/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx011&layout=donut&langs_count=8&card_width=300&theme=dark&margin-left=10px" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx011&layout=donut&langs_count=8&card_width=300&theme=dark&margin-left=40px" />
 </a>
 </a>
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
