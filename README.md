@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" height="250" width="350" style="margin-top=10px;">
 </p>
 <hr style="color: grey; height: 2px; border-style: dotted; margin-top=10px; margin-bottom=10px">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/lynx011/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lynx011" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/lynx011/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx011&layout=compact&langs_count=8&card_width=320" />
 </a>
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
 <p align="left">
