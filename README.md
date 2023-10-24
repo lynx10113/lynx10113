@@ -3,10 +3,10 @@
 </p>
 <hr style="color: grey; height: 2px; border-style: dotted; margin-top=10px; margin-bottom=10px">
 <a href="https://github.com/lynx011/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lynx011&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lynx011&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/lynx011/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx011&layout=donut&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx011&layout=donut&langs_count=8&card_width=300&theme=dark" />
 </a>
 </a>
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
