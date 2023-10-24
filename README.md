@@ -13,4 +13,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="36" height="36"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynx011&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynx011&layout=donut)](https://github.com/lynx011/github-readme-stats)
