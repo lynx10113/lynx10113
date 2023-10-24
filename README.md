@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" height="250" width="350" style="margin-top=10px;">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynx011&layout=donut)](https://github.com/lynx011/README.md)
 </p>
 <hr style="color: grey; height: 2px; border-style: dotted; margin-top=10px; margin-bottom=10px">
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
@@ -13,4 +14,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="36" height="36"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/>
 </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=lynx011&layout=donut)
