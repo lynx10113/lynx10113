@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" height="250" width="350" style="margin-top=10px;">
 </p>
 <hr style="color: grey; height: 2px; border-style: dotted; margin-top=10px; margin-bottom=10px">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lynx011&show_icons=true&card_width=300&theme=merko" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx011&layout=donut&langs_count=8&card_height=300&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lynx011&show_icons=true&card_height=300&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx011&layout=donut&langs_count=8&card_width=300&theme=merko" />
 </a>
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
 <p align="left">
