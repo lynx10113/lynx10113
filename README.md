@@ -5,7 +5,7 @@
   <a href="https://github.com/lynx10113/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lynx011&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/lynx011/convoychat">
+<a href="https://github.com/lynx10113/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx011&layout=donut&langs_count=8&card_width=300&theme=merko" />
 </a>
 </a>
