@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" height="250" width="350" style="margin-top=10px;">
 </p>
 <hr style="color: grey; height: 2px; border-style: dotted; margin-top=10px; margin-bottom=10px">
-  <a href="https://github.com/lynx011/github-readme-stats">
+  <a href="https://github.com/lynx10113/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lynx011&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/lynx011/convoychat">
