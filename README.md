@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/qDDfXw8qXfcAAAAC/za-warudo.gif" height="260" width="450" style="margin-top=10px;">
+  <img src="https://media1.tenor.com/m/qDDfXw8qXfcAAAAC/za-warudo.gif" height="260" width="400" style="margin-top=10px;">
 </p>
 <hr style="color: grey; height: 2px; border-style: dotted; margin-top=10px; margin-bottom=10px">
   <a href="https://github.com/lynx10113/github-readme-stats">
