@@ -8,16 +8,18 @@
 <a href="https://github.com/lynx10113/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx10113&layout=donut&langs_count=8&card_width=300&theme=transparent" />
 </a>
-</a>
+
+---
+
 <h4> 🚀🛠 &nbsp;Languages and Tools</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=white" alt="Sourcetree"/>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" />
+<img src="https://lp.jetbrains.com/static/2021/03/23/155113-0.15265793.png" width="36" height="36"/>
+<img src="https://logo.svgcdn.com/d/jetpackcompose-original.png" alt="androidstudio" width="36" height="36"/>
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Ktor_icon.png" alt="ktor" width="36" height="36"/>
+<img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="36" height="36"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-sourcetree-3521724-2945168.png?f=webp&w=512" width="36" height="36"/> 
 </p>
